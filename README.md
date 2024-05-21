@@ -13,4 +13,4 @@ N - Node.js (It is used for server-side programming, and primarily deployed for 
 Feel free to customize this README file based on your specific project details, such as additional setup instructions, usage guidelines, or contributor information.
 Thanks for visiting !!
 
-![Alt text](C:\Users\lenovo\Downloads\Screenshot 2024-05-21 232744.png)
+![Alt text](Screenshot 2024-05-21 232744.png)
