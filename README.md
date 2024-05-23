@@ -22,7 +22,9 @@ Thanks for visiting !! <br>
 
 [Oasis Infobyte Internship Offer Letter.pdf](https://github.com/ArunChourasia-17/MERN-Pizza-Food-Delivery-Web-App/files/15412455/Oasis.Infobyte.Internship.Offer.Letter.pdf)
 
+## Complete .PDF for detail analysis of MERN Stack project..<br>
 
+[2nd Year Project Report.pdf](https://github.com/ArunChourasia-17/MERN-Pizza-Food-Delivery-Web-App/files/15412584/2nd.Year.Project.Report.pdf)
 
 
 
